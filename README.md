@@ -31,17 +31,17 @@ Desarrollé un **Robot de Software (RPA)** que automatiza el ciclo completo de r
 
 ### 1. El Problema (Inputs Fragmentados)
 *El script detecta automáticamente n cantidad de archivos en la carpeta objetivo.*
-![Input Data](<img width="192" height="226" alt="image" src="https://github.com/user-attachments/assets/3285cb0c-d99b-4a19-8ec2-5e8dde4b060c" />)
+![Input Data]<img width="192" height="226" alt="image" src="https://github.com/user-attachments/assets/3285cb0c-d99b-4a19-8ec2-5e8dde4b060c" />
 
 
 ### 2. El Proceso (Ejecución del Script)
 *Consolidación de 35.000 registros en tiempo real.*
-![Console Output](<img width="995" height="508" alt="image" src="https://github.com/user-attachments/assets/568ad91b-dcbb-4f05-9ab9-c8fa13ffa9cf" />)
+![Console Output]<img width="995" height="508" alt="image" src="https://github.com/user-attachments/assets/568ad91b-dcbb-4f05-9ab9-c8fa13ffa9cf" />
 
 
 ### 3. El Resultado (Dashboard Automatizado)
 *Dashboard interactivo que se actualiza con un solo clic.*
-![Dashboard Final](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d8afcf37-eec3-45ae-ac9c-e63cfd2272ee" />)
+![Dashboard Final]<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d8afcf37-eec3-45ae-ac9c-e63cfd2272ee" />
 
 
 ---
