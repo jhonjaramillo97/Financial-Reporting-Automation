@@ -1,10 +1,10 @@
-# 📊 Automatización de Reporting Financiero (ETL Pipeline)
+# Automatización de Reporting Financiero (ETL Pipeline)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Excel](https://img.shields.io/badge/Excel-VBA-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## 💼 Descripción del Proyecto
+## Descripción del Proyecto
 Este proyecto resuelve un problema común en la banca y finanzas corporativas: la consolidación manual de múltiples fuentes de datos. 
 
 Desarrollé un **Robot de Software (RPA)** que automatiza el ciclo completo de reporting:
@@ -16,7 +16,7 @@ Desarrollé un **Robot de Software (RPA)** que automatiza el ciclo completo de r
 
 ---
 
-## 🛠️ Tecnologías Usadas
+## Tecnologías Usadas
 *   **Python:** Lógica central y manipulación de datos.
     *   `pandas`: Para el procesamiento masivo de datos (ETL).
     *   `xlwings`: Para la interacción avanzada con Excel y Macros.
@@ -27,7 +27,7 @@ Desarrollé un **Robot de Software (RPA)** que automatiza el ciclo completo de r
 
 ---
 
-## 📸 Demostración Visual
+## Demostración Visual
 
 ### 1. El Problema (Inputs Fragmentados)
 *El script detecta automáticamente n cantidad de archivos en la carpeta objetivo.*
@@ -46,7 +46,7 @@ Desarrollé un **Robot de Software (RPA)** que automatiza el ciclo completo de r
 
 ---
 
-## 🚀 Cómo ejecutar este proyecto
+## Cómo ejecutar este proyecto
 
 1.  **Clonar el repositorio:**
     ```bash
